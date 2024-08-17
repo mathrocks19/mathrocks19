@@ -2,9 +2,7 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://www.pixelstalk.net/wp-content/uploads/2016/06/Cool-gif-tumblr-wallpaper-hd.jpg"  />
-</div>
+<img align="right" height="200" src="https://c4.wallpaperflare.com/wallpaper/1004/4/846/synthwave-background-wallpaper-preview.jpg"  />
 
 ###
 
@@ -44,15 +42,15 @@
 
 ###
 
+<h2 align="left">Status</h2>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
 </div>
-
-###
-
-<h2 align="left">Status</h2>
 
 ###
 
@@ -80,9 +78,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/mathrocks19/mathrocks19/output/snake.svg" alt="Snake animation" />
-
-###
-
-<p align="left">Hello World!!</p>
 
 ###
