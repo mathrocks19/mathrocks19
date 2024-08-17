@@ -88,6 +88,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mathrocks19/mathrocks19/output/snake.svg" alt="Snake animation" />
+
 
 ###
