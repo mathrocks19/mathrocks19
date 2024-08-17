@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="200" src="https://c4.wallpaperflare.com/wallpaper/1004/4/846/synthwave-background-wallpaper-preview.jpg"  />
+<img align="right" height="170" src="https://c4.wallpaperflare.com/wallpaper/1004/4/846/synthwave-background-wallpaper-preview.jpg"  />
 
 ###
 
