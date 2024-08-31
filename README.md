@@ -1,8 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mathrocks19&color=ff69b4"><br>
 <div align="center">
   <a href="https://github.com/mathrocks19">
-    <img align="center" src="![Welcome](https://github.com/username/repository-name/raw/main/assets/Welcome.gif)
-" width="500">
+    <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1lZXNhaTg0Znk0NGVrOWZkazBoMG8yYWIzdHkyZGFheDkzcnd0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PCq7wvhfSAly10cYx5/giphy.gif" width="500">
   </a>
 </div>
 <br>
@@ -25,8 +24,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 4°
 <div align="center">
   <table>
     <tr>
-      <td><b>🎓 Sistemas</b></td>
-      <td><b>🧪 FrontEnd</b></td>
+      <td><b>💻 Sistemas</b></td>
+      <td><b>👨‍💻 FrontEnd</b></td>
     </tr>
     <tr>
       <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1zZmttN3oyYW4zbHIydmJ5Nzl6cDhqd2d5cnQxNGN1cTN6eDdleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.webp" width="300px" height="170px"></td>
@@ -39,9 +38,8 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 4°
 <b>Além da programação...</b>
 
 - Gosto de jogos do genero FPS, Cooperativo e Corrida.
-- Fico assistindo streamings na Twitch, Youtube. 
-- Assisto Filmes e séries do gênero Ficção Científica. 
-
+- Assisto streamings na Twitch e Youtube. 
+- Assisto Filmes e séries do gênero Ficção Científica.
 
 ## ⭐️ Hard Skills
 
