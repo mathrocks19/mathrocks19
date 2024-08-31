@@ -1,7 +1,8 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mathrocks19&color=ff69b4"><br>
 <div align="center">
   <a href="https://github.com/mathrocks19">
-    <img align="center" src="![Welcome](https://github.com/user-attachments/assets/5b1f5e9b-8228-4388-be3f-a5e403e6cc4b)" width="500">
+    <img align="center" src="![Welcome](https://github.com/username/repository-name/raw/main/assets/Welcome.gif)
+" width="500">
   </a>
 </div>
 <br>
