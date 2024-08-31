@@ -27,10 +27,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 4°
      <h3>https://portfolio-matheus-v.vercel.app/<h3>
       <td><b>💻 Sistemas</b></td>
       <td><b>👨‍💻 FrontEnd</b></td> 
-    
+         <tr>
       <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1zZmttN3oyYW4zbHIydmJ5Nzl6cDhqd2d5cnQxNGN1cTN6eDdleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.webp" width="320px" height="200px"></td>
-<td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRidWprbXl2a3Bud293azl2bmltY3lmNnEyejY5eTQ1cnhkejE4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"  width="320px" height="200px"></td>
-
+      <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRidWprbXl2a3Bud293azl2bmltY3lmNnEyejY5eTQ1cnhkejE4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"  width="320px" height="200px"> </td>
+    </tr>
     </tr>
   </table>
 </div>
