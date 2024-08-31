@@ -19,7 +19,7 @@
 
 ## ⭐️ Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 4° Período. Meu foco é Front End, embora estudo Back End também!.
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 4° Período. Meu foco é Front End, embora estudo Java como Back End também!.
 
 <div align="center">
   <table>
