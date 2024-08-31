@@ -1,109 +1,62 @@
-<h1 align="left">Sobre mim</h1>
-
-###
+<img align="right" src="https://komarev.com/ghpvc/?username=mathrocks19&color=ff69b4"><br>
+<div align="center">
+  <a href="https://github.com/mathrocks19">
+    <img align="center" src="img/Welcome.gif" width="500">
+  </a>
+</div>
+<br>
 
 <div align="center">
- ![Welcome](https://github.com/user-attachments/assets/e48770ec-ec5f-4f97-967e-ea6df0d72069)
-
+  <!-- Work Links -->
+  <a href="https://github.com/mathrocks19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-viana-ab0868278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:matheuscviana22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- YT Links -->
+  <!-- Social Links -->
+  <a href="https://www.instagram.com/matheus_viana911/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  
 </div>
-![Welcome](https://github.com/user-attachments/assets/e48770ec-ec5f-4f97-967e-ea6df0d72069)
 
-###
+## ⭐️ Sobre mim
 
-<h1 align="left">👋 Hi there, Welcome to my GitHub profile</h1>
-
-###
-
-<h5 align="left">💻My Name is Matheus Viana and i´m a Front End Developer.</h5>
-
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<h6 align="left">⚜ I am a student of ADS (Analysis and Development and Systems)<br><br>⚜4th period at college 💻<br><br>⚜Passionate about technology</h6>
-
-###
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 4° Período. Meu foco é Front End, embora estudo Back End também!.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheus-viana-ab0868278/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/b3nBwWAkAg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/matheus_viana911/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="matheuscviana22@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <table>
+    <tr>
+      <td><b>🎓 Sua Formação</b></td>
+      <td><b>🧪 Sua Atividade</b></td>
+    </tr>
+    <tr>
+      <td><img src="<iframe src="https://giphy.com/embed/13FrpeVH09Zrb2" width="480" height="461" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/css-13FrpeVH09Zrb2">via GIPHY</a></p>" width="300px" height="170px"></td>
+      <td><img src="<iframe src="https://giphy.com/embed/13FrpeVH09Zrb2" width="480" height="461" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/css-13FrpeVH09Zrb2">via GIPHY</a></p>" width="300px" height="170px"></td>
+    </tr>
+  </table>
 </div>
 
-###
+<b>Além da programação...</b>
 
-<h2 align="left">Tecnologias 💻</h2>
+- Gosto de jogos do genero FPS, Cooperativo e Corrida.
+- Fico assistindo streamings na Twitch, Youtube. 
+- Assisto Filmes e séries do gênero Ficção Científica. 
 
-###
 
-<h5 align="left">Linguagens</h5>
+## ⭐️ Hard Skills
 
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="70" alt="angularjs logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="70" alt="tailwindcss logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="70" alt="bootstrap logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=ts" height="70" alt="typescript logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=java" height="70" alt="java logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="70" alt="microsoftsqlserver logo"  />
+<div align="center">
+  <!-- Adicione as tecnologias que você domina -->
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <!-- Outras tecnologias -->
 </div>
 
-###
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathrocks19&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathrocks19&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathrocks19&theme=tokyonight) |
+| :-: | :-: | :-: |
 
-<h3 align="left">Design 🖋</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
-</div>
-
-###
-
-<h2 align="left">Status 📈</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathrocks19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mathrocks19&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathrocks19&radius=16&theme=merko&area=false&order=5&hide_border=false&hide_title=false" height="260" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mathrocks19&theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<h3 align="left">Ferramentas 🛠</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
-
-###
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathrocks19&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mathrocks19&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
