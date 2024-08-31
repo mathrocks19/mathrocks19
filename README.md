@@ -5,14 +5,11 @@
   </a>
 </div>
 <br>
-
 <div align="center">
   <!-- Work Links -->
   <a href="https://github.com/mathrocks19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-viana-ab0868278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:matheuscviana22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <!-- YT Links -->
-  <!-- Social Links -->
   <a href="https://www.instagram.com/matheus_viana911/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://portfolio-matheus-v.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
@@ -22,11 +19,11 @@
 
 ## ⭐️ Sobre mim
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 4° Período. Meu foco é Front End, embora estudo Java como Back End também!.
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 4° Período. Meu foco é Front End, embora estudo Java como Back End também!. Fiquem a vontade por olhar meu GitHub! 😁
 
 <div align="center">
   <table>
-     <h1>Meu site</h1>
+     <h1>Site com meus Projetos Front/Back End. </h1>
      <h3>https://portfolio-matheus-v.vercel.app/<h3>
       <td><b>💻 Sistemas</b></td>
       <td><b>👨‍💻 FrontEnd</b></td> 
@@ -61,5 +58,4 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 4°
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathrocks19&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathrocks19&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathrocks19&theme=tokyonight) |
 | :-: | :-: | :-: |
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathrocks19&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=mathrocks19&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
-| :-: | :-: |
+
