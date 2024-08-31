@@ -1,7 +1,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mathrocks19&color=ff69b4"><br>
 <div align="center">
   <a href="https://github.com/mathrocks19">
-    <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1lZXNhaTg0Znk0NGVrOWZkazBoMG8yYWIzdHkyZGFheDkzcnd0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PCq7wvhfSAly10cYx5/giphy.gif" width="961" height="200">
+    <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm1lZXNhaTg0Znk0NGVrOWZkazBoMG8yYWIzdHkyZGFheDkzcnd0OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PCq7wvhfSAly10cYx5/giphy.gif" width="961" height="400">
   </a>
 </div>
 <br>
