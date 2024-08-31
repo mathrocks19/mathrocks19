@@ -29,8 +29,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 4°
       <td><b>🧪 Sua Atividade</b></td>
     </tr>
     <tr>
-      <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1zZmttN3oyYW4zbHIydmJ5Nzl6cDhqd2d5cnQxNGN1cTN6eDdleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.webp "></td>
-      <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1zZmttN3oyYW4zbHIydmJ5Nzl6cDhqd2d5cnQxNGN1cTN6eDdleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.webp "</td>
+      <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1zZmttN3oyYW4zbHIydmJ5Nzl6cDhqd2d5cnQxNGN1cTN6eDdleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.webp" width="300px" height="170px"></td>
+<td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1zZmttN3oyYW4zbHIydmJ5Nzl6cDhqd2d5cnQxNGN1cTN6eDdleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.webp" width="300px" height="170px"></td>
+
     </tr>
   </table>
 </div>
