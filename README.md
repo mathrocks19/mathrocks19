@@ -1,109 +1,97 @@
-<h1 align="left">Sobre mim</h1>
-
-###
+<img align="right" src="https://komarev.com/ghpvc/?username=andreinaoliveira&color=ff69b4"><br>
+<div align="center">
+  <a href="![Welcome](https://github.com/user-attachments/assets/a83f0198-1de7-4edb-95df-3c0e638d4cb6)
+">
+    <img align="center" src="Welcome.png" width="500">
+  </a>
+</div>
+<br>
 
 <div align="center">
- ![Welcome](https://github.com/user-attachments/assets/e48770ec-ec5f-4f97-967e-ea6df0d72069)
-
+  <!-- Work Links -->
+  <a href="https://github.com/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://hefesto.uea.edu.br/gitlab/andreinaoliveira" target="_blank"><img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andreinaoliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:andreinaholiveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <!-- YT Links -->
+  <a href="https://www.twitch.tv/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Twitch-6441a5?style=for-the-badge&logo=Twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@AndreinaOliveira" target="_blank"><img src="https://img.shields.io/badge/@AndreinaOliveira-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <br><a href="https://www.youtube.com/@QAutodidata" target="_blank"><img src="https://img.shields.io/badge/@QAutodidata-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <!-- Social Links -->
+  <a href="https://instagram.com/prinsycho" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  <!-- OTH Links -->
+  <a href="https://trustinthesky.tumblr.com/" target="_blank"><img src="https://img.shields.io/badge/Tumblr-34526f?style=for-the-badge&logo=tumblr&logoColor=white"></a>
+  <a href="https://open.spotify.com/playlist/3TNMcoGu5xhkUNgd5EXPqv?si=hwLhcHGPT8qoLAdftQ8ELA" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"target="_blank"></a>
+  <a href="https://steamcommunity.com/id/prinsycho" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
 </div>
-![Welcome](https://github.com/user-attachments/assets/e48770ec-ec5f-4f97-967e-ea6df0d72069)
 
-###
+## ⭐️ Sobre mim
 
-<h1 align="left">👋 Hi there, Welcome to my GitHub profile</h1>
-
-###
-
-<h5 align="left">💻My Name is Matheus Viana and i´m a Front End Developer.</h5>
-
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<h6 align="left">⚜ I am a student of ADS (Analysis and Development and Systems)<br><br>⚜4th period at college 💻<br><br>⚜Passionate about technology</h6>
-
-###
+Sou formada em <b>Ciência da Computação</b> pela Uninorte (2021) e atualmente atuo no cargo <b>Desenvolvedora de testes Pleno</b> no INDT - Instituto de Desenvolvimento Tecnológico. Atuando há 3 anos na área de teste com testes frontend e backend. Por aqui gosto de compartilhar automações de teste geralmente em Cypress e Selenium. Atualmente estou estudando Playwright e venho trazer repositórios sobre.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/matheus-viana-ab0868278/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.gg/b3nBwWAkAg" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/matheus_viana911/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="matheuscviana22@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+  <table>
+    <tr>
+      <td><b>🎓 Cientista da Computação</b></td>
+      <td><b>🧪 Desenvolvedora de Testes</b></td>
+    </tr>
+    <tr>
+      <td><img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px"></td>
+      <td><img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="170px"> </td>
+    </tr>
+  </table>
 </div>
 
-###
+<b>Além da programação...</b>
 
-<h2 align="left">Tecnologias 💻</h2>
+- Amo Karaoke.
+- Gosto de jogos do genero indie, terror e co-op. Faço live terça e quinta na [Twitch](https://www.twitch.tv/prinsycho).
+- Adoro organização e sou viciada em Notion. De vez ou outra posto coisas desse nicho no [Youtube](https://www.youtube.com/@AndreinaOliveira/videos).
+- Gosto de ler e super recomendo alguns dos meus livros favoritos que ajudam a pensar fora da caixa. 
+  - <a href='https://www.amazon.com.br/morte-dia-vale-pena-viver/dp/8543107202/ref=sr_1_1?crid=10O1MH7C5CAMM&keywords=a+morte+%C3%A9+um+dia+que+vale+viver&qid=1646599578&sprefix=a+morte+%2Caps%2C203&sr=8-1'>A morte é um dia que vale a pena viver</a>
+  -  <a href='https://www.amazon.com.br/Mais-esperto-que-Diabo-liberdade/dp/8568014003/ref=sr_1_5?crid=3GSH2MZHKL3D3&keywords=mais+esperto+que+o+diabo&qid=1646604662&sprefix=Mais+es%2Caps%2C290&sr=8-5'>Mais esperto que o Diabo</a>
+  - <a href='https://www.amazon.com.br/Louco-por-viver-Roberto-Shinyashiki/dp/8573128607/ref=sr_1_1?crid=17F9GOLR7DPT0&keywords=louco+por+viver&qid=1646599654&sprefix=louco+por%2Caps%2C194&sr=8-1'>Louco por viver</a>
 
-###
-
-<h5 align="left">Linguagens</h5>
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="70" alt="angularjs logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="70" alt="tailwindcss logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="70" alt="bootstrap logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=ts" height="70" alt="typescript logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=java" height="70" alt="java logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="70" alt="microsoftsqlserver logo"  />
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo4_250.gif"></td>
+      <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo5_250.gifv"></td>
+      <td><img src="https://64.media.tumblr.com/tumblr_lyxj33CYzW1qigluvo6_250.gifv"></td>
+    </tr>
+  </table>
 </div>
 
-###
-
-<h3 align="left">Design 🖋</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="60" alt="canva logo"  />
+## ⭐️ Hard Skills
+<!--  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andreinaoliveira&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true%22/"> --> 
+<div align="center">
+  <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <!-- JavaScript --> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  <!-- Kotlin --> <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
+  <!-- Json --> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
+  <!-- Cypress --> <img src="https://img.shields.io/badge/Cypress-639a4f?style=for-the-badge&logo=Cypress&logoColor=white">
+  <!-- Selenium --> <img src="https://img.shields.io/badge/Selenium-008000?style=for-the-badge&logo=Selenium&logoColor=white">
+  <!-- Xray --> <img src="https://img.shields.io/badge/Xray%20Test-3abb4c?style=for-the-badge&logo=Jira&logoColor=white">
+  <!-- Zephyr --> <img src="https://img.shields.io/badge/Zephyr%20Test-87cefa?style=for-the-badge&logo=Jira&logoColor=white">
+  <!-- QAlity --> <img src="https://img.shields.io/badge/QAlity%20Test-0093d8?style=for-the-badge&logo=Jira&logoColor=white">
+  <!-- Postman --> <img src="https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=Postman&logoColor=white">
+  <!-- SQL --> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <!-- AOSP --> <img src="https://img.shields.io/badge/AOSP-32de84?style=for-the-badge&logo=Android&logoColor=white">
+  <!-- Arduino --> <img src="https://img.shields.io/badge/Arduino-00979C?style=for-the-badge&logo=Arduino&logoColor=white">
+  <!-- Adobe XD --> <img src="https://img.shields.io/badge/Adobe%20XD-660066?style=for-the-badge&logo=AdobeXD&logoColor=white">
+  <br>
 </div>
 
-###
 
-<h2 align="left">Status 📈</h2>
+<!-- 
+theme=ocean_dark 
+tokyonight: 35AFA3 Green | BF91F3 Purple | 1A1B27 Dark 
+-->
 
-###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mathrocks19&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=merko&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=mathrocks19&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mathrocks19&radius=16&theme=merko&area=false&order=5&hide_border=false&hide_title=false" height="260" alt="activity-graph graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=mathrocks19&theme=juicyfresh&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=andreinaoliveira&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andreinaoliveira&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andreinaoliveira&theme=tokyonight) |
+| :-: | :-: | :-: |
 
-###
-
-<h3 align="left">Ferramentas 🛠</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
-
-###
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreinaoliveira&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=andreinaoliveira&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
+| :-: | :-: |
