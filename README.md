@@ -28,7 +28,7 @@
 <!-- Informações com emojis (da estrutura da Jennifer, adaptado com suas informações) -->
 <div style="text-align: left; padding: 20px 0;">
   <ul>
-    <li>🎓 <strong>Estudante</strong> em Análise e Desenvolvimento de Sistemas (4° Período) - [Nome da sua Instituição, ex: FATEC, SENAI]</li>
+    <li>🎓 <strong>Estudante</strong> em Análise e Desenvolvimento de Sistemas (5° Período) - SENAC RJ</li>
     <li>👨‍💻 <strong>Foco Principal:</strong> Front-End | <strong>Estudando:</strong> Java (Back-End)</li>
     <li>🎂 <strong>[Sua Idade] anos</strong> - [Seu Ano de Nascimento]</li>
     <li>🚀 Confira meu portfólio: <a href="https://portfolio-matheus-v.vercel.app/">portfolio-matheus-v.vercel.app</a></li>
@@ -37,7 +37,7 @@
 
 <!-- Seu "Sobre mim" (do seu código) -->
 ## ⭐️ Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 4° Período. Meu foco é Front End, embora estudo Java como Back End também!. Fiquem a vontade em olhar meu GitHub! 😁
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5° Período. Meu foco é Front End, embora estudo Java como Back End também!. Fiquem a vontade em olhar meu GitHub! 😁
 
 <!-- Sua Tabela de Projetos/Gifs (do seu código) -->
 <div align="center">
