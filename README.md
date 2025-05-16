@@ -9,29 +9,18 @@
 </div>
 <br>
 
-<!-- Enhanced 3D Contribution Graph Section (Estilo Isaac) -->
-<!-- OBS: Arquivo profile-night-rainbow.svg é gerado pela Action na pasta 'profile-3d-contrib/' -->
+
 <div align="center" style="position: relative; width: 100%; max-width: 850px; margin: auto; padding-bottom: 50px;">
     <!-- 1. Main 3D Contribution Graph (com stats embutidos pela action) -->
-    <img src="https://raw.githubusercontent.com/mathrocks19/mathrocks19/main/profile-3d-contrib/profile-night-rainbow.svg" alt="My GitHub Contributions 3D Graph" style="width: 100%; display: block;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrocks19&layout=donut&langs_count=5&theme=dracula&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=D2691E&hide_title=true" alt="Top Languages" style="width: 100%;" />
 
-    <!-- 2. Activity Stats (Spider Chart - Top Right) -->
-    <div style="position: absolute; top: 20px; right: 20px; width: 220px; z-index: 1;">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <!-- Link opcional para o criador do card -->
-            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathrocks19&theme=dracula" alt="Activity Stats" style="width: 100%;" />
-        </a>
-    </div>
-
-    <!-- 3. Language Donut Chart (Bottom Left) -->
-    <div style="position: absolute; bottom: 70px; /* Ajuste para ficar acima dos stats do 3D graph */ left: 30px; width: 170px; z-index: 1;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrocks19&layout=donut&langs_count=5&theme=dracula&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=D2691E&hide_title=true" alt="Top Languages" style="width: 100%;" />
-    </div>
+   
 </div>
 <br>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=25¢er=false&vCenter=true&width=1000&lines=Matheus+Viana;Bem-Vindo+ao+meu+Perfil!+:%29" alt="Typing SVG"> <!-- Corrigido: center=false -->
+  <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=25¢er=false&vCenter=true&width=1000&lines=Matheus+Viana;Bem-Vindo+ao+meu+Perfil!+:%29" alt="Typing SVG">
 </a>
 
 <!-- Seus Links Sociais -->
@@ -93,14 +82,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </div>
-<br>
-<!-- Skill Icons (Se você ainda quiser usar, não estava no seu último código, mas estava antes) -->
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram&perline=10" alt="My Skills"/>
-  </a>
-</div>
-<br>
+
 
 <!-- Seus Cards de Stats e Streak (Mantidos) -->
 <div align="center">
