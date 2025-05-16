@@ -16,7 +16,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=25¢er=false&vCenter=true&width=1000&lines=Matheus+Viana;Bem-Vindo+ao+meu+Perfil!+:%29" alt="Typing SVG">
 </a>
 
-<!-- Seus Links Sociais -->
+<!-- Links Sociais -->
 <div align="center" style="padding: 15px 0;">
   <a href="https://github.com/mathrocks19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-viana-ab0868278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
