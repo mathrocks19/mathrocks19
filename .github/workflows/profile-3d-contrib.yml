@@ -1,0 +1,52 @@
+name: GitHub Profile 3D Contrib for mathrocks19
+
+on:
+  schedule:
+    # Atualiza a cada 12 horas
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Necessário para fazer commit no repositório
+    name: generate-github-profile-3d-contrib
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4 # Usando versão mais recente
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        with:
+          GITHUB_USERNAME: ${{ github.repository_owner }} # Pega seu usuário 'mathrocks19'
+          SHOW_STATS: 'true'        # MOSTRA total de contribuições
+          SHOW_STARGAZERS: 'true' # MOSTRA total de estrelas
+          SHOW_FORK_COUNT: 'true' # MOSTRA total de forks
+          # Você pode adicionar outros temas aqui se quiser gerar mais SVGs, ex: THEME_NAME: 'ocean,gitblock'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Move and Commit selected 3D graph
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          # Cria a pasta se não existir
+          mkdir -p profile-3d-contrib
+          # Verifica se o arquivo específico (profile-night-rainbow.svg) foi gerado na raiz
+          if [ -f profile-night-rainbow.svg ]; then
+            # Move apenas o profile-night-rainbow.svg para a pasta
+            mv profile-night-rainbow.svg profile-3d-contrib/
+            echo "Moved profile-night-rainbow.svg to profile-3d-contrib/"
+            git add profile-3d-contrib/profile-night-rainbow.svg
+          else
+            echo "File profile-night-rainbow.svg not found in root. Action might have changed output or failed."
+            # Se você quiser gerenciar TODOS os SVGs na pasta, o script de mv e add seria diferente (ex: mv profile-*.svg ...)
+          fi
+          # Verifica se há mudanças para commitar (apenas no arquivo adicionado)
+          if git diff --staged --quiet; then
+            echo "No changes in selected 3D contrib graph to commit."
+          else
+            git commit -m "chore: update 3D contribution graph (night-rainbow) 🎲"
+            git push
+          fi

@@ -1,0 +1,47 @@
+name: Generate Snake Animation for mathrocks19
+
+on:
+  # Executa a cada 6 horas
+  schedule:
+    - cron: "0 */6 * * *"
+  # Permite executar manualmente pela aba Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    # Permissões necessárias para que a action possa fazer commit no seu repositório
+    permissions:
+      contents: write
+
+    steps:
+      # 1. Faz o checkout do seu repositório para que o workflow possa acessar e modificar os arquivos
+      - uses: actions/checkout@v3
+
+      # 2. Gera a animação da cobrinha
+      - name: Generate snake animation
+        uses: Platane/snk@v3 # Usando a versão mais recente da ação
+        with:
+          # Seu nome de usuário do GitHub.
+          # Usar github.repository_owner é dinâmico e recomendado se este workflow
+          # estiver no seu repositório 'mathrocks19/mathrocks19'.
+          github_user_name: ${{ github.repository_owner }}
+          
+          # Define o caminho de saída para o SVG do modo claro.
+          # A ação criará automaticamente 'github-snake-dark.svg' no mesmo diretório.
+          # Ex: output/github-snake.svg e output/github-snake-dark.svg
+          svg_out_path: output/github-snake.svg
+
+      # 3. Faz o commit e push dos arquivos gerados (se houverem mudanças)
+      - name: Commit and Push new snake files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          git add output/github-snake.svg output/github-snake-dark.svg
+          # Verifica se há mudanças para commitar
+          if git diff --staged --quiet; then
+            echo "No changes in snake animation to commit."
+          else
+            git commit -m "chore: update snake animation files 🐍"
+            git push
+          fi

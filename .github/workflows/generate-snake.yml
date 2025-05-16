@@ -1,0 +1,38 @@
+name: Generate Snake Animation for mathrocks19
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # Atualiza a cada 6 horas
+  workflow_dispatch: # Permite rodar manualmente
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Necessário para fazer commit
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate snake animation
+        uses: Platane/snk/svg-only@v3 # Usando svg-only para output mais limpo
+        with:
+          github_user_name: ${{ github.repository_owner }} # Pega seu usuário 'mathrocks19'
+          # Caminhos de saída para os SVGs claro e escuro
+          svg_out_path: output/github-snake.svg
+          svg_out_path_dark: output/github-snake-dark.svg # Ação Platane/snk@v3 gera os dois
+          # Você pode adicionar ?color_snake=verde ou ?color_dots=azul etc, se quiser customizar cores
+          # Exemplo: ?palette=github-dark&color_snake=orange&color_dots=#002452,#003473,#004b9e,#0063cb,#2881ff
+
+      - name: Commit and Push new snake files
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+          # Adiciona ambos os arquivos da cobrinha
+          git add output/github-snake.svg output/github-snake-dark.svg
+          if git diff --staged --quiet; then
+            echo "No changes in snake animation to commit."
+          else
+            git commit -m "chore: update snake animation files 🐍"
+            git push
+          fi

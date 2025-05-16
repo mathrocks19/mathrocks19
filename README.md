@@ -1,7 +1,7 @@
-<!-- Contador de Visitas (do seu código) -->
+<!-- Contador de Visitas -->
 <img align="right" src="https://komarev.com/ghpvc/?username=mathrocks19&color=ff69b4"><br>
 
-<!-- Seu Banner Principal (do seu código) -->
+<!-- Seu Banner Principal -->
 <div align="center">
    <a href="https://github.com/mathrocks19">
     <img align="center" src="https://github.com/user-attachments/assets/0b6db79f-db33-47c9-9765-21481a7d36aa" width="1280" height="200" alt="Banner Matheus Viana">
@@ -9,12 +9,32 @@
 </div>
 <br>
 
-<!-- Typing SVG (da estrutura da Jennifer, adaptado para você) -->
+<!-- Enhanced 3D Contribution Graph Section (Estilo Isaac) -->
+<!-- OBS: Arquivo profile-night-rainbow.svg é gerado pela Action na pasta 'profile-3d-contrib/' -->
+<div align="center" style="position: relative; width: 100%; max-width: 850px; margin: auto; padding-bottom: 50px;">
+    <!-- 1. Main 3D Contribution Graph (com stats embutidos pela action) -->
+    <img src="https://raw.githubusercontent.com/mathrocks19/mathrocks19/main/profile-3d-contrib/profile-night-rainbow.svg" alt="My GitHub Contributions 3D Graph" style="width: 100%; display: block;" />
+
+    <!-- 2. Activity Stats (Spider Chart - Top Right) -->
+    <div style="position: absolute; top: 20px; right: 20px; width: 220px; z-index: 1;">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <!-- Link opcional para o criador do card -->
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathrocks19&theme=dracula" alt="Activity Stats" style="width: 100%;" />
+        </a>
+    </div>
+
+    <!-- 3. Language Donut Chart (Bottom Left) -->
+    <div style="position: absolute; bottom: 70px; /* Ajuste para ficar acima dos stats do 3D graph */ left: 30px; width: 170px; z-index: 1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrocks19&layout=donut&langs_count=3&theme=dracula&hide_border=true&border_radius=10&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=00000000&ring_color=007BFF&hide=html,css" alt="Top Languages" style="width: 100%;" />
+    </div>
+</div>
+<br>
+
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=25¢er=false&vCenter=true&width=1000&lines=Matheus+Viana;Bem-Vindo+ao+meu+Perfil!+:%29" alt="Typing SVG">
 </a>
 
-<!-- Seus Links Sociais (do seu código) -->
+<!-- Seus Links Sociais -->
 <div align="center" style="padding: 15px 0;">
   <a href="https://github.com/mathrocks19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-viana-ab0868278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -25,7 +45,7 @@
 </a>
 </div>
 
-<!-- Informações com emojis (da estrutura da Jennifer, adaptado com suas informações) -->
+<!-- Informações com emojis -->
 <div style="text-align: left; padding: 20px 0;">
   <ul>
     <li>🎓 <strong>Estudante</strong> em Análise e Desenvolvimento de Sistemas (5° Período) - SENAC RJ</li>
@@ -34,26 +54,26 @@
   </ul>
 </div>
 
-<!-- Seu "Sobre mim" (do seu código) -->
+<!-- Seu "Sobre mim" -->
 ## ⭐️ Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5° Período. Meu foco é Front End, embora estudo Java como Back End também!. Fiquem a vontade em olhar meu GitHub! 😁
 
-<!-- Sua Tabela de Projetos/Gifs (do seu código) -->
+<!-- Sua Tabela de Projetos/Gifs -->
 <div align="center">
   <table>
      <tr><th colspan="2"><h1>Site com meus Projetos Front/Back End. </h1><h3>https://portfolio-matheus-v.vercel.app/</h3></th></tr>
      <tr>
         <td><b>💻 Sistemas</b></td>
-        <td><b>👨‍💻 FrontEnd</b></td> 
+        <td><b>👨‍💻 FrontEnd</b></td>
      </tr>
      <tr>
-        <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1zZmttN3oyYW4zbHIydmJ5Nzl6cDhqd2d5cnQxNGN1cTN6eDdleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.webp" width="400px" height="200px"></td>
-        <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRidWprbXl2a3Bud293azl2bmltY3lmNnEyejY5eTQ1cnhkejE4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"  width="400px" height="200px"> </td>
+        <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1zZmttN3oyYW4zbHIydmJ5Nzl6cDhqd2d5cnQxNGN1cTN6eDdleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.webp" width="400px" height="200px" alt="Sistema Gif"></td>
+        <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRidWprbXl2a3Bud293azl2bmltY3lmNnEyejY5eTQ1cnhkejE4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"  width="400px" height="200px" alt="Frontend Gif"> </td>
     </tr>
   </table>
 </div>
 
-<b>Além da programação...</b> (do seu código)
+<b>Além da programação...</b>
 <ul>
   <li>Gosto de jogos do genero FPS, Cooperativo e Corrida.</li>
   <li>Assisto streamings na Twitch e Youtube.</li>
@@ -62,7 +82,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
 
 <hr>
 
-## ⭐️ Hard Skills (do seu código)
+## 🛠️ Tecnologias e Ferramentas
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
@@ -73,10 +93,16 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </div>
-
+<br>
+<!-- Skill Icons -->
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram&perline=10" alt="My Skills"/>
+  </a>
+</div>
 <br>
 
-<!-- Seus Cards de Stats e Streak (do seu código) -->
+<!-- Seus Cards de Stats e Streak (Mantidos) -->
 <div align="center">
   <table>
     <tr>
@@ -94,18 +120,20 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
     </tr>
   </table>
 </div>
+<br>
 
-<!-- Snake Animation (da estrutura da Jennifer, adaptado para você) -->
-<!-- OBS: Para isso funcionar, você precisa configurar a GitHub Action no seu repositório mathrocks19/mathrocks19 -->
+<!-- Snake Animation -->
+<!-- OBS: Arquivos da cobrinha são gerados pela Action na pasta 'output/' -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathrocks19/mathrocks19/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathrocks19/mathrocks19/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/mathrocks19/mathrocks19/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathrocks19/mathrocks19/main/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mathrocks19/mathrocks19/main/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mathrocks19/mathrocks19/main/output/github-snake.svg" />
   </picture>
 </div>
+<br>
 
-<!-- Seus Troféus do GitHub (do seu código) -->
+<!-- Seus Troféus do GitHub -->
 ## 🏆 Troféus do GitHub
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mathrocks19&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
