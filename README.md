@@ -38,7 +38,7 @@
 
 <!-- Seu "Sobre mim" -->
 ## ⭐️ Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5° Período. Meu foco é Front End, embora estudo Java como Back End também!. Fiquem a vontade em olhar meu GitHub! 😁
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5° Período. Meu foco é Front End, embora estudo Java como Back End também!. Fiquem a vontade em olhar meu GitHub! 😁😎
 
 <!-- Sua Tabela de Projetos/Gifs -->
 <div align="center">
