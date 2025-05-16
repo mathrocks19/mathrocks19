@@ -93,14 +93,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </div>
-<br>
-<!-- Skill Icons -->
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram&perline=10" alt="My Skills"/>
-  </a>
-</div>
-<br>
+
 
 <!-- Seus Cards de Stats e Streak (Mantidos) -->
 <div align="center">

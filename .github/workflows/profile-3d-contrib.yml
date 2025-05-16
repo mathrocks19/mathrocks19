@@ -2,51 +2,64 @@ name: GitHub Profile 3D Contrib for mathrocks19
 
 on:
   schedule:
-    # Atualiza a cada 12 horas
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Permite rodar manualmente
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Necessário para fazer commit no repositório
+      contents: write
     name: generate-github-profile-3d-contrib
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4 # Usando versão mais recente
+        uses: actions/checkout@v4
 
       - name: Generate 3D Contribution Graph
-        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        uses: yoshi389111/github-profile-3D-contrib@0.7.1
         with:
           GITHUB_USERNAME: ${{ github.repository_owner }} # Pega seu usuário 'mathrocks19'
-          SHOW_STATS: 'true'        # MOSTRA total de contribuições
-          SHOW_STARGAZERS: 'true' # MOSTRA total de estrelas
-          SHOW_FORK_COUNT: 'true' # MOSTRA total de forks
-          # Você pode adicionar outros temas aqui se quiser gerar mais SVGs, ex: THEME_NAME: 'ocean,gitblock'
+          SHOW_STATS: 'true'
+          SHOW_STARGAZERS: 'true'
+          SHOW_FORK_COUNT: 'true'
+          # Se quiser definir explicitamente quais temas gerar, use THEME_NAME
+          # Ex: THEME_NAME: 'night_rainbow,green,green_animate,gitblock'
+          # Se THEME_NAME não for especificado, ele gera todos os temas padrão da action.
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Move and Commit selected 3D graph
+      - name: Move all generated 3D graphs and Commit
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           # Cria a pasta se não existir
           mkdir -p profile-3d-contrib
-          # Verifica se o arquivo específico (profile-night-rainbow.svg) foi gerado na raiz
-          if [ -f profile-night-rainbow.svg ]; then
-            # Move apenas o profile-night-rainbow.svg para a pasta
-            mv profile-night-rainbow.svg profile-3d-contrib/
-            echo "Moved profile-night-rainbow.svg to profile-3d-contrib/"
-            git add profile-3d-contrib/profile-night-rainbow.svg
+
+          # Opcional, mas recomendado: Deleta SVGs antigos da pasta de destino
+          # Isso garante que apenas os temas recém-gerados pela action sejam mantidos.
+          # Se a action parar de gerar um tema, ele será removido da sua pasta.
+          echo "Cleaning up old SVGs in profile-3d-contrib/ ..."
+          find profile-3d-contrib/ -name 'profile-*.svg' -type f -delete
+
+          # Verifica se existem arquivos profile-*.svg na raiz para mover
+          if ls profile-*.svg 1> /dev/null 2>&1; then
+            echo "Moving newly generated profile-*.svg files to profile-3d-contrib/ ..."
+            # Move todos os arquivos profile-*.svg para a pasta
+            mv profile-*.svg profile-3d-contrib/
+
+            echo "Adding files to git..."
+            # Adiciona todos os arquivos SVG da pasta profile-3d-contrib ao staging
+            git add profile-3d-contrib/*.svg
+
+            # Verifica se há mudanças para commitar
+            if git diff --staged --quiet; then
+              echo "No changes in 3D contrib graph files to commit."
+            else
+              echo "Committing changes..."
+              git commit -m "chore: update all 3D contribution graph files 🎲"
+              git push
+              echo "Push successful."
+            fi
           else
-            echo "File profile-night-rainbow.svg not found in root. Action might have changed output or failed."
-            # Se você quiser gerenciar TODOS os SVGs na pasta, o script de mv e add seria diferente (ex: mv profile-*.svg ...)
-          fi
-          # Verifica se há mudanças para commitar (apenas no arquivo adicionado)
-          if git diff --staged --quiet; then
-            echo "No changes in selected 3D contrib graph to commit."
-          else
-            git commit -m "chore: update 3D contribution graph (night-rainbow) 🎲"
-            git push
+            echo "No new profile-*.svg files found in root to move. Action might have changed output or failed."
           fi
