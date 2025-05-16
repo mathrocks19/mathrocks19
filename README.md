@@ -10,6 +10,23 @@
 <br>
 
 
+<div align="center" style="position: relative; width: 100%; max-width: 850px; margin: auto; padding-bottom: 50px;">
+    <!-- 1. Main 3D Contribution Graph (com stats embutidos pela action) -->
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrocks19&layout=donut&langs_count=3&theme=dracula&hide_border=true&border_radius=10&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=00000000&ring_color=007BFF&hide=html,css&random=AGORA" alt="Top Languages" style="width: 100%;" />
+
+    <!-- 2. Activity Stats (Spider Chart - Top Right) -->
+    <div style="position: absolute; top: 20px; right: 20px; width: 220px; z-index: 1;">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <!-- Link opcional para o criador do card -->
+            <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathrocks19&theme=dracula" alt="Activity Stats" style="width: 100%;" />
+        </a>
+    </div>
+
+    <!-- 3. Language Donut Chart (Bottom Left) -->
+    <div style="position: absolute; bottom: 70px; /* Ajuste para ficar acima dos stats do 3D graph */ left: 30px; width: 170px; z-index: 1;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrocks19&layout=donut&langs_count=3&theme=dracula&hide_border=true&border_radius=10&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=00000000&ring_color=007BFF&hide=html,css" alt="Top Languages" style="width: 100%;" />
+    </div>
+</div>
+<br>
 
 <!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
