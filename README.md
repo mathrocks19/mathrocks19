@@ -32,7 +32,6 @@
   <ul>
     <li>🎓 <strong>Estudante</strong> em Análise e Desenvolvimento de Sistemas (5° Período) - SENAC RJ</li>
     <li>👨‍💻 <strong>Foco Principal:</strong> Front-End | <strong>Estudando:</strong> Java (Back-End)</li>
-    <li>🚀 Confira meu portfólio: <a href="https://portfolio-matheus-v.vercel.app/">portfolio-matheus-v.vercel.app</a></li>
   </ul>
 </div>
 
