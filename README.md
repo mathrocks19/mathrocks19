@@ -9,13 +9,6 @@
 </div>
 <br>
 
-
-<div align="center" style="position: relative; width: 100%; max-width: 850px; margin: auto; padding-bottom: 50px;">
-    <!-- 1. Main 3D Contribution Graph (com stats embutidos pela action) -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathrocks19&layout=donut&langs_count=5&theme=dracula&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&ring_color=D2691E&hide_title=true" alt="Top Languages" style="width: 100%;" />
-
-   
-</div>
 <br>
 
 <!-- Typing SVG -->
