@@ -12,7 +12,7 @@
 
 <div align="center" style="position: relative; width: 100%; max-width: 850px; margin: auto; padding-bottom: 50px;">
     <!-- 1. Main 3D Contribution Graph (com stats embutidos pela action) -->
-    <img src="https://raw.githubusercontent.com/mathrocks19/mathrocks19/main/profile-3d-contrib/profile-night-rainbow.svg" alt="My GitHub Contributions 3D Graph" style="width: 100%; display: block;" />
+    <img src="https://raw.githubusercontent.com/mathrocks19/mathrocks19/main/profile-3d-contrib/profile-night-rainbow.svg?v=12345" ... />
 
    
 </div>
