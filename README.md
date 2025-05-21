@@ -1,7 +1,6 @@
-<!-- Contador de Visitas -->
+
 <img align="right" src="https://komarev.com/ghpvc/?username=mathrocks19&color=ff69b4"><br>
 
-<!-- Seu Banner Principal -->
 <div align="center">
    <a href="https://github.com/mathrocks19">
     <img align="center" src="https://github.com/user-attachments/assets/0b6db79f-db33-47c9-9765-21481a7d36aa" width="1280" height="200" alt="Banner Matheus Viana">
@@ -11,12 +10,6 @@
 
 <br>
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=007BFF&size=25¢er=false&vCenter=true&width=1000&lines=Matheus+Viana;Bem-Vindo+ao+meu+Perfil!+:%29" alt="Typing SVG">
-</a>
-
-<!-- Links Sociais -->
 <div align="center" style="padding: 15px 0;">
   <a href="https://github.com/mathrocks19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/matheus-viana-ab0868278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -27,7 +20,6 @@
 </a>
 </div>
 
-<!-- Informações com emojis -->
 <div style="text-align: left; padding: 20px 0;">
   <ul>
     <li>🎓 <strong>Estudante</strong> em Análise e Desenvolvimento de Sistemas (5° Período) - SENAC RJ</li>
@@ -35,11 +27,9 @@
   </ul>
 </div>
 
-<!-- Seu "Sobre mim" -->
 ## ⭐️ Sobre mim
 Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5° Período. Meu foco é Front End, embora estudo Java como Back End também!. Fiquem a vontade em olhar meu GitHub! 😁😎
 
-<!-- Sua Tabela de Projetos/Gifs -->
 <div align="center">
   <table>
      <tr><th colspan="2"><h1>Site com meus Projetos Front/Back End. </h1><h3>https://portfolio-matheus-v.vercel.app/</h3></th></tr>
@@ -75,8 +65,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
 </div>
 
-
-<!-- Seus Cards de Stats e Streak (Mantidos) -->
 <div align="center">
   <table>
     <tr>
@@ -96,8 +84,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
 </div>
 <br>
 
-<!-- Snake Animation -->
-<!-- OBS: Arquivos da cobrinha são gerados pela Action na pasta 'output/' -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mathrocks19/mathrocks19/main/output/github-snake-dark.svg" />
@@ -107,7 +93,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
 </div>
 <br>
 
-<!-- Seus Troféus do GitHub -->
 ## 🏆 Troféus do GitHub
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mathrocks19&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
