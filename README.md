@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=poppins&color=4A01CD¢er=true&vCenter=true&width=500&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Viana!" alt="Olá, eu sou o Matheus Viana">
+    <img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=4A01CD¢er=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Viana!" alt="Typing SVG">
   </a>
 </div>
 
