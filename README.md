@@ -32,7 +32,9 @@
 </div>
 
 ## ⭐️ Sobre mim
-Sou formado em Análise e Desenvolvimento de Sistemas pelo SENAC RJ. Meu foco é Front End, embora estude Java como Back End também! Fiquem à vontade em olhar meu GitHub! 😁😎
+## ⭐️ Sobre mim
+Me chamo Matheus, tenho 21 anos e sou recém-formado em Análise e Desenvolvimento de Sistemas pelo SENAC RJ. Sou um profissional apaixonado por tecnologia, o que me motiva a buscar constantemente novos desafios para aprimorar minhas habilidades, especialmente na área de Front-End. Tenho uma forte curiosidade, sou dedicado e estou sempre pronto para aprender e colaborar na entrega de soluções de qualidade. 😁
+
 
 <div align="center">
   <table>
