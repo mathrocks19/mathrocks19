@@ -99,7 +99,3 @@ Me chamo Matheus, tenho 21 anos e sou recém-formado em Análise e Desenvolvimen
 </div>
 <br>
 
-## 🏆 Troféus do GitHub
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mathrocks19&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</div>
