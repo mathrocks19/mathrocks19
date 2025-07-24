@@ -5,7 +5,7 @@
 </div>
 
 
-<div align="center">
+<div align="left">
    <a href="https://github.com/mathrocks19">
     <img align="center" src="https://github.com/user-attachments/assets/0b6db79f-db33-47c9-9765-21481a7d36aa" width="1280" height="200" alt="Banner Matheus Viana">
   </a>
