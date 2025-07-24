@@ -4,19 +4,21 @@
   <img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=4A01CD&background=FF000000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Viana!" alt="Typing SVG" />
 </div>
 
+
 <div align="left">
    <a href="https://github.com/mathrocks19">
-    <img align="center" src="https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif" width="1280" height="200" alt="Banner Matheus Viana">
+    <img align="center" src="https://github.com/user-attachments/assets/0b6db79f-db33-47c9-9765-21481a7d36aa" width="1280" height="200" alt="Banner Matheus Viana">
   </a>
 </div>
 <br>
+
 <br>
 
 <div align="center" style="padding: 15px 0;">
-  <a href="https://github.com/mathrocks19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/matheus-viana-ab0868278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/mathrocks19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/matheus-viana-ab0868278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:matheuscviana22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/matheus_viana911/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/matheus_viana911/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://portfolio-matheus-v.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
 </a>
@@ -24,13 +26,13 @@
 
 <div style="text-align: left; padding: 20px 0;">
   <ul>
-    <li>🎓 <strong>Estudante</strong> em Análise e Desenvolvimento de Sistemas (5º Período) - SENAC RJ</li>
+    <li>🎓 <strong>Estudante</strong> em Análise e Desenvolvimento de Sistemas (5° Período) - SENAC RJ</li>
     <li>👨‍💻 <strong>Foco Principal:</strong> Front-End (Angular) | <strong>Estudando:</strong> Java (Back-End)</li>
   </ul>
 </div>
 
 ## ⭐️ Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5º Período. Meu foco é Front End, embora estudo Java como Back End também!. Fiquem a vontade em olhar meu GitHub! 😁😎
+Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5° Período. Meu foco é Front End, embora estudo Java como Back End também!. Fiquem a vontade em olhar meu GitHub! 😁😎
 
 <div align="center">
   <table>
