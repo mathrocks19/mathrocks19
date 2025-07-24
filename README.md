@@ -1,18 +1,10 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mathrocks19&color=ff69b4"><br>
 
-<div align="center">
+<div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=4A01CD&background=FF000000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Viana!" alt="Typing SVG" />
 </div>
 
-
-<div align="left">
-   <a href="https://github.com/mathrocks19">
-    <img align="center" src="https://github.com/user-attachments/assets/0b6db79f-db33-47c9-9765-21481a7d36aa" width="1280" height="200" alt="Banner Matheus Viana">
-  </a>
-</div>
-<br>
-
-<br>
+<br><br>
 
 <div align="center" style="padding: 15px 0;">
   <a href="https://github.com/mathrocks19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
@@ -26,13 +18,14 @@
 
 <div style="text-align: left; padding: 20px 0;">
   <ul>
-    <li>🎓 <strong>Estudante</strong> em Análise e Desenvolvimento de Sistemas (5° Período) - SENAC RJ</li>
-    <li>👨‍💻 <strong>Foco Principal:</strong> Front-End | <strong>Estudando:</strong> Java (Back-End)</li>
+    <li>🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas - SENAC RJ</li>
+    <li>👨‍💻 <strong>Foco Principal:</strong> Front-End (Angular) | <strong>Estudando:</strong> Java (Back-End), Vue.js</li>
+    <li>📌 Experiência como Scrum Master em projeto acadêmico</li>
   </ul>
 </div>
 
 ## ⭐️ Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5° Período. Meu foco é Front End, embora estudo Java como Back End também!. Fiquem a vontade em olhar meu GitHub! 😁😎
+Sou formado em Análise e Desenvolvimento de Sistemas pelo SENAC RJ. Meu foco principal é Front End, embora também estude Java para desenvolvimento Back End. Fique à vontade para conferir meus projetos no GitHub! 😁😎
 
 <div align="center">
   <table>
@@ -50,9 +43,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
 
 <b>Além da programação...</b>
 <ul>
-  <li>Gosto de jogos do genero FPS, Cooperativo e Corrida.</li>
-  <li>Assisto streamings na Twitch e Youtube.</li>
-  <li>Assisto Filmes e séries do gênero Ficção Científica.</li>
+  <li>Gosto de jogos do gênero FPS, Cooperativo e Corrida.</li>
+  <li>Assisto streamings na Twitch e YouTube.</li>
+  <li>Assisto filmes e séries do gênero Ficção Científica.</li>
 </ul>
 
 <hr>
@@ -86,6 +79,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
     </tr>
   </table>
 </div>
+
 <br>
 
 <div align="center">
@@ -95,6 +89,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
     <img alt="github-snake" src="https://raw.githubusercontent.com/mathrocks19/mathrocks19/main/output/github-snake.svg" />
   </picture>
 </div>
+
 <br>
 
 ## 🏆 Troféus do GitHub
