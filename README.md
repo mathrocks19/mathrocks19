@@ -1,70 +1,31 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=mathrocks19&color=ff69b4"><br>
-
-<div align="center">
-   <a href="https://github.com/mathrocks19">
-    <img align="center" src="https://github.com/user-attachments/assets/0b6db79f-db33-47c9-9765-21481a7d36aa" width="1280" height="200" alt="Banner Matheus Viana">
-  </a>
-</div>
-<br>
-
-<br>
+<img align="right" src="https://komarev.com/ghpvc/?username=mathrocks19&color=ff69b4">
 
 <div align="center" style="padding: 15px 0;">
-  <a href="https://github.com/mathrocks19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-viana-ab0868278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/mathrocks19" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/matheus-viana-ab0868278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:matheuscviana22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.instagram.com/matheus_viana911/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://portfolio-matheus-v.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
-</a>
+  <a href="https://www.instagram.com/matheus_viana911/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://portfolio-matheus-v.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-%230077B5?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio"></a>
 </div>
 
-<div style="text-align: left; padding: 20px 0;">
-  <ul>
-    <li>🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas - SENAC RJ</li>
-    <li>👨‍💻 <strong>Foco Principal:</strong> Front-End (Angular) | <strong>Estudando:</strong> Java (Back-End)</li>
-  </ul>
-</div>
-
-<div align="center">
-
-| <div align="left" style="max-width: 600px;">
+| <div align="left" style="max-width: 600px; line-height: 1.5;">
   
-## ⭐️ Sobre mim
+# ⭐️ Sobre mim
+
 Sou formado em Análise e Desenvolvimento de Sistemas pelo SENAC RJ. Meu foco principal é Front End, embora também estude Java para desenvolvimento Back End. Fique à vontade para conferir meus projetos no GitHub! 😁😎
 
-<b>Além da programação...</b>
+**Além da programação...**
+
 - Gosto de jogos do gênero FPS, Cooperativo e Corrida.
 - Assisto streamings na Twitch e YouTube.
 - Assisto filmes e séries do gênero Ficção Científica.
 
-</div> | <img src="https://i.pinimg.com/736x/ae/fe/a1/aefea199238e1155f942900d1952b80c.jpg" width="600px" alt="Banner Matheus Viana" />
+</div> | <img src="https://i.pinimg.com/736x/ae/fe/a1/aefea199238e1155f942900d1952b80c.jpg" width="320px" alt="Banner Matheus Viana" />
 
-</div>
-
-<div align="center">
-  <table>
-     <tr>
-        <td><b>💻 Sistemas</b></td>
-        <td><b>👨‍💻 FrontEnd</b></td>
-     </tr>
-     <tr>
-        <td><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1zZmttN3oyYW4zbHIydmJ5Nzl6cDhqd2d5cnQxNGN1cTN6eDdleCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13FrpeVH09Zrb2/giphy.webp" width="400px" height="200px" alt="Sistema Gif"></td>
-        <td><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRidWprbXl2a3Bud293azl2bmltY3lmNnEyejY5eTQ1cnhkejE4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif"  width="400px" height="200px" alt="Frontend Gif"> </td>
-    </tr>
-  </table>
-</div>
-
-<b>Além da programação...</b>
-<ul>
-  <li>Gosto de jogos do gênero FPS, Cooperativo e Corrida.</li>
-  <li>Assisto streamings na Twitch e YouTube.</li>
-  <li>Assisto filmes e séries do gênero Ficção Científica.</li>
-</ul>
-
-<hr>
+---
 
 ## 🛠️ Tecnologias e Ferramentas
+
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
@@ -77,6 +38,8 @@ Sou formado em Análise e Desenvolvimento de Sistemas pelo SENAC RJ. Meu foco pr
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </div>
 
+---
+
 <div align="center">
   <table>
     <tr>
@@ -87,14 +50,16 @@ Sou formado em Análise e Desenvolvimento de Sistemas pelo SENAC RJ. Meu foco pr
       <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathrocks19&theme=tokyonight" alt="Most Commit Language"></td>
       <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathrocks19&theme=tokyonight" alt="Profile Details"></td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathrocks19&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3" alt="GitHub Streak Stats">
-      </td>
-    </tr>
   </table>
 </div>
-<br>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathrocks19&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3" alt="GitHub Streak Stats">
+</div>
+
+---
 
 <div align="center">
   <picture>
@@ -103,9 +68,11 @@ Sou formado em Análise e Desenvolvimento de Sistemas pelo SENAC RJ. Meu foco pr
     <img alt="github-snake" src="https://raw.githubusercontent.com/mathrocks19/mathrocks19/main/output/github-snake.svg" />
   </picture>
 </div>
-<br>
+
+---
 
 ## 🏆 Troféus do GitHub
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mathrocks19&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
