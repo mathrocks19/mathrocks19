@@ -1,4 +1,3 @@
-
 <img align="right" src="https://komarev.com/ghpvc/?username=mathrocks19&color=ff69b4"><br>
 
 <div align="center">
@@ -22,17 +21,17 @@
 
 <div style="text-align: left; padding: 20px 0;">
   <ul>
-    <li>🎓 <strong>Estudante</strong> em Análise e Desenvolvimento de Sistemas (5° Período) - SENAC RJ</li>
+    <li>🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas - SENAC RJ</li>
     <li>👨‍💻 <strong>Foco Principal:</strong> Front-End | <strong>Estudando:</strong> Java (Back-End)</li>
   </ul>
 </div>
 
 ## ⭐️ Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5° Período. Meu foco é Front End, embora estudo Java como Back End também!. Fiquem a vontade em olhar meu GitHub! 😁😎
+Sou formado em Análise e Desenvolvimento de Sistemas pelo SENAC RJ. Meu foco principal é Front End, embora também estude Java para desenvolvimento Back End. Fique à vontade para conferir meus projetos no GitHub! 😁😎
 
 <div align="center">
   <table>
-     <tr><th colspan="2"><h1>Site com meus Projetos Front/Back End. </h1><h3>https://portfolio-matheus-v.vercel.app/</h3></th></tr>
+     <tr><th colspan="2"><h1>Site com meus Projetos Front/Back End.</h1><h3>https://portfolio-matheus-v.vercel.app/</h3></th></tr>
      <tr>
         <td><b>💻 Sistemas</b></td>
         <td><b>👨‍💻 FrontEnd</b></td>
@@ -46,9 +45,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
 
 <b>Além da programação...</b>
 <ul>
-  <li>Gosto de jogos do genero FPS, Cooperativo e Corrida.</li>
-  <li>Assisto streamings na Twitch e Youtube.</li>
-  <li>Assisto Filmes e séries do gênero Ficção Científica.</li>
+  <li>Gosto de jogos do gênero FPS, Cooperativo e Corrida.</li>
+  <li>Assisto streamings na Twitch e YouTube.</li>
+  <li>Assisto filmes e séries do gênero Ficção Científica.</li>
 </ul>
 
 <hr>
@@ -63,6 +62,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5°
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </div>
 
 <div align="center">
