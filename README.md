@@ -26,12 +26,24 @@
   </ul>
 </div>
 
+<div align="center">
+
+| <div align="left" style="max-width: 600px;">
+  
 ## ⭐️ Sobre mim
 Sou formado em Análise e Desenvolvimento de Sistemas pelo SENAC RJ. Meu foco principal é Front End, embora também estude Java para desenvolvimento Back End. Fique à vontade para conferir meus projetos no GitHub! 😁😎
 
+<b>Além da programação...</b>
+- Gosto de jogos do gênero FPS, Cooperativo e Corrida.
+- Assisto streamings na Twitch e YouTube.
+- Assisto filmes e séries do gênero Ficção Científica.
+
+</div> | <img src="https://i.pinimg.com/736x/ae/fe/a1/aefea199238e1155f942900d1952b80c.jpg" width="600px" alt="Banner Matheus Viana" />
+
+</div>
+
 <div align="center">
   <table>
-     <tr><th colspan="2"><h1>Site com meus Projetos Front/Back End.</h1><h3>https://portfolio-matheus-v.vercel.app/</h3></th></tr>
      <tr>
         <td><b>💻 Sistemas</b></td>
         <td><b>👨‍💻 FrontEnd</b></td>
