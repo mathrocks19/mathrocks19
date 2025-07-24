@@ -1,5 +1,10 @@
-
 <img align="right" src="https://komarev.com/ghpvc/?username=mathrocks19&color=ff69b4"><br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=58A6FF¢er=true&width=450&lines=Olá,+eu+sou+o+Matheus+Viana!" alt="Typing SVG - Olá, eu sou o Matheus Viana!">
+  </a>
+</div>
 
 <div align="center">
    <a href="https://github.com/mathrocks19">
