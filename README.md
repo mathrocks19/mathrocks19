@@ -1,10 +1,9 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=mathrocks19&color=ff69b4"><br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=4A01CD¢er=true&vCenter=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Viana!" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=poppins&pause=1000&color=4A01CD&background=FF000000&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Matheus+Viana!" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
    <a href="https://github.com/mathrocks19">
