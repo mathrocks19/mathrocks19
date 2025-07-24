@@ -26,13 +26,13 @@
 
 <div style="text-align: left; padding: 20px 0;">
   <ul>
-    <li>🎓 <strong>Estudante</strong> em Análise e Desenvolvimento de Sistemas (5° Período) - SENAC RJ</li>
+    <li>🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas - SENAC RJ</li>
     <li>👨‍💻 <strong>Foco Principal:</strong> Front-End (Angular) | <strong>Estudando:</strong> Java (Back-End)</li>
   </ul>
 </div>
 
 ## ⭐️ Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas, atualmente estou no 5° Período. Meu foco é Front End, embora estudo Java como Back End também!. Fiquem a vontade em olhar meu GitHub! 😁😎
+Sou formado em Análise e Desenvolvimento de Sistemas pelo SENAC RJ. Meu foco é Front End, embora estude Java como Back End também! Fiquem à vontade em olhar meu GitHub! 😁😎
 
 <div align="center">
   <table>
