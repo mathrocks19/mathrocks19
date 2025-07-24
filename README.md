@@ -22,7 +22,7 @@
 <div style="text-align: left; padding: 20px 0;">
   <ul>
     <li>🎓 <strong>Formado</strong> em Análise e Desenvolvimento de Sistemas - SENAC RJ</li>
-    <li>👨‍💻 <strong>Foco Principal:</strong> Front-End | <strong>Estudando:</strong> Java (Back-End)</li>
+    <li>👨‍💻 <strong>Foco Principal:</strong> Front-End (Angular) | <strong>Estudando:</strong> Java (Back-End)</li>
   </ul>
 </div>
 
